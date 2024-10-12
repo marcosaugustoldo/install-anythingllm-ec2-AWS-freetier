@@ -1,5 +1,7 @@
 # Install an Anything LLM container on an AWS Free Tier EC2 Instance
 
+![https://raw.githubusercontent.com/Mintplex-Labs/anything-llm/master/images/wordmark.png](https://raw.githubusercontent.com/Mintplex-Labs/anything-llm/master/images/wordmark.png)
+
 Let's create a container for Anything LLM on the AWS instance you created based on [this tutorial](https://github.com/marcosaugustoldo/install-aws/blob/main/README.md) .
 
 Here's a step-by-step tutorial:
